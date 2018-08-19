@@ -1,4 +1,4 @@
-# Material Dialogs
+# Flashlight
 
 [![Build Status](https://travis-ci.org/afollestad/material-dialogs.svg)](https://travis-ci.org/afollestad/material-dialogs)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
@@ -11,10 +11,14 @@
 
 </div>
 
-## Tutorial
+## Description
 
-Para añadir el Tile a la barra de configuracion:
+[Quick Settings Tile](https://developer.android.com/reference/android/service/quicksettings/Tile.html) is a fairly new API, introduced with Android 7.0 Nougat (API 24), It enables developers to add custom Tiles in the Quick Settings menu in addition to the existing ones such as WiFi, Bluetooth, Airplane Mode, etc.
 
-1. Instale la app y ejecutela.
-2. Conceda los permiso a la camara.
-3. Arastre el Tile en su barra de configuracion en la opcion de edicion.
+
+## How to use
+
+1. Install the application and execute it.
+2. Grant the permits to the camera.
+3. Drag the Flashlight Tile into your Quick Settings.
+4. Hide the application icon (Optional)
