@@ -3,6 +3,8 @@
 [![Build Status](https://travis-ci.org/afollestad/material-dialogs.svg)](https://travis-ci.org/afollestad/material-dialogs)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
+This is a simple Flashlight Tile for testing Quick Settings Tile API.
+
 <div float="left">
 
   <img src="https://raw.githubusercontent.com/pjdepractica/flashlight-tile/master/screenshots/Screenshot_20180819-120529.png" alt="" data-canonical-src="https://raw.githubusercontent.com/pjdepractica/flashlight-tile/master/screenshots/Screenshot_20180819-120529.png" width="200" height="auto" float="left" />
